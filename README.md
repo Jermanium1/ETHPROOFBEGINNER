@@ -1,4 +1,4 @@
-# SimpleToken Smart Contract
+# MyToken Smart Contract
 
 ## Overview
 
